@@ -1,0 +1,24 @@
+{
+  "name": "@kubsonekk/kupsonek",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist/**/*"],
+  "scripts": {
+   "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kubsonekkmusic/kubsonek.git"
+  },
+  "author": "Kubsonekk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kubsonekkmusic/kubsonek/issues"
+  },
+  "homepage": "https://github.com/Kubsonekkmusic/kubsonek#readme",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  }
+}
